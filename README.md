@@ -1,2 +1,4 @@
 # hello-world
-this is an axample repository 
+
+Zdravo
+Jas sum Zoran, Student na fakultetot za Informaticki nauki i Kompjutersko inzenerstvo...
